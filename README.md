@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marileano
 - 👀 I’m interested in expanding my new career in the data science field
-- 🌱 I’m currently learning data science and am in my last semester of my masters program
-- 💞️ I’m looking to collaborate on projects, projects, projects
+- 🌱 I have recently graduated with my Master's in Data Science
+- 💞️ I’m looking to collaborate on projects and build on my foundation of skills
 - 📫 How to reach me at my email marianne.leano@gmail.com
 
 <!---
